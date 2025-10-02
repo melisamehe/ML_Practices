@@ -57,11 +57,11 @@ Regression: The model can predict numerical values in the custom dataset.
 
 5. Requirements
 
-Python 3.x
-scikit-learn
-numpy
-pandas (optional, for data handling)
-matplotlib / seaborn (optional, for visualization)
+- Python 3.x
+- scikit-learn
+- numpy
+- pandas (optional, for data handling)
+- matplotlib / seaborn (optional, for visualization)
 
 
 
