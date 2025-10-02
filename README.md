@@ -5,6 +5,7 @@ This project demonstrates the use of **K-Nearest Neighbors (KNN)** for both **cl
 ---
 
 ## 1. KNN Classification
+<img width="1897" height="955" alt="knn_classification" src="https://github.com/user-attachments/assets/6637b6e5-18ac-4392-9600-ac791d077825" />
 
 - **Dataset:** Breast Cancer Wisconsin Dataset (`sklearn.datasets`)
 - **Goal:** Predict whether a tumor is **malignant** or **benign**.
@@ -19,6 +20,7 @@ This project demonstrates the use of **K-Nearest Neighbors (KNN)** for both **cl
 ---
 
 ## 2. KNN Regression
+<img width="1883" height="961" alt="knn_regression" src="https://github.com/user-attachments/assets/900a19c4-74e8-42ab-a1db-6db9d587414d" />
 
 - **Dataset:** Custom-created dataset
 - **Goal:** Predict continuous numerical values
