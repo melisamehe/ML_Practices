@@ -1,4 +1,4 @@
-# Supervised Learning Case Study
+# Supervised Learning 
 ## 📌 Overview
 
 This repository contains supervised learning practices and case studies.
@@ -37,5 +37,6 @@ Regression (e.g., Linear Regression, Polynomial Regression)
 ## 📊 Evaluation Metrics
 
 Accuracy, Precision, Recall, F1-score (for classification)
+
 
 Mean Squared Error (MSE), Root Mean Squared Error (RMSE), R² (for regression)
