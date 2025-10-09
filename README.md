@@ -1,67 +1,67 @@
-# KNN Classification & Regression Projects
+# 🎓 Machine Learning Practices 
 
-This project demonstrates the use of **K-Nearest Neighbors (KNN)** for both **classification** and **regression** tasks.
-
----
-
-## 1. KNN Classification
-<img width="1897" height="955" alt="knn_classification" src="https://github.com/user-attachments/assets/6637b6e5-18ac-4392-9600-ac791d077825" />
-
-- **Dataset:** Breast Cancer Wisconsin Dataset (`sklearn.datasets`)
-- **Goal:** Predict whether a tumor is **malignant** or **benign**.
-- **Method:** K-Nearest Neighbors Classifier
-- **Steps:**
-  1. Load and explore the dataset
-  2. Split data into training and test sets
-  3. Scale features using StandardScaler
-  4. Train the KNN classifier
-  5. Make predictions and evaluate accuracy
+This repository contains all my practical implementations from the **BTK Akademi – Machine Learning Practices** program.  
+Throughout this journey, I explored various areas of **machine learning**, covering both theory and hands-on applications.
 
 ---
 
-## 2. KNN Regression
-<img width="1883" height="961" alt="knn_regression" src="https://github.com/user-attachments/assets/900a19c4-74e8-42ab-a1db-6db9d587414d" />
+## 🚀 Topics Covered
 
-- **Dataset:** Custom-created dataset
-- **Goal:** Predict continuous numerical values
-- **Method:** K-Nearest Neighbors Regressor
-- **Steps:**
-  1. Create a dataset (`x` and `y` values)
-  2. Split data into training and test sets
-  3. Train the KNN regression model
-  4. Make predictions and evaluate performance (e.g., MSE or R²)
+### 🧩 Supervised Learning
+- KNN Classification (Breast Cancer dataset)
+- KNN Regression (Custom-created dataset)
+ <img width="1897" height="955" alt="knn_classification" src="https://github.com/user-attachments/assets/e8643644-f9b2-4316-8d95-afa2f8ef659e" />
+
+<img width="1883" height="961" alt="knn_regression" src="https://github.com/user-attachments/assets/d3bf06de-93e2-4008-a1a4-6a6e1a66848c" />
+
+### 🔍 Unsupervised Learning
+- Clustering and basic unsupervised algorithms
+
+### 🎮 Reinforcement Learning
+- Fundamental reinforcement learning exercises
+
+### 📉 Dimensionality Reduction
+- PCA and other dimensionality reduction techniques
+
+### ⚙️ Model Selection & Evaluation
+- Cross-validation, accuracy, MSE, R² metrics
+
+### 🧠 Regularization
+- Ridge, Lasso, and ElasticNet applications
 
 ---
 
-## 3. Usage
+## 🧰 Technologies & Tools
 
-1. Clone the repository:
-```bash
-git clone https://github.com/melisamehe/ML_Practices.git
-```
+| Category | Tools & Libraries |
+|-----------|------------------|
+| Programming | Python |
+| ML Frameworks | Scikit-learn |
+| Data Handling | NumPy, Pandas |
+| Visualization | Matplotlib, Seaborn |
+| Development | Jupyter Notebook,Spyder, Git, GitHub |
 
-Install the required libraries:
-```bash
-pip install -r requirements.txt
-```
+---
 
-Run the Python scripts:
-```bash
-python knn_classification.py
-python knn_regression.py
-```
-4. Results
+## 💡 Key Skills
 
-Classification: The model successfully classifies tumors as malignant or benign.
-Regression: The model can predict numerical values in the custom dataset.
+- Machine Learning  
+- Supervised & Unsupervised Learning  
+- Reinforcement Learning  
+- Data Preprocessing & Feature Scaling  
+- Model Evaluation & Regularization  
+- Dimensionality Reduction (PCA)  
+- Python Programming  
+- Analytical Thinking & Problem Solving  
 
-5. Requirements
+---
 
-- Python 3.x
-- scikit-learn
-- numpy
-- pandas (optional, for data handling)
-- matplotlib / seaborn (optional, for visualization)
+
+
+
+
+
+
 
 
 
