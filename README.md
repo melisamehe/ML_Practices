@@ -37,7 +37,7 @@ This project demonstrates the use of **K-Nearest Neighbors (KNN)** for both **cl
 
 1. Clone the repository:
 ```bash
-git clone <repo-link>
+git clone https://github.com/melisamehe/ML_Practices.git
 ```
 
 Install the required libraries:
